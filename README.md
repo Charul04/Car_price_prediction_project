@@ -1,5 +1,4 @@
-## 🚗 Car Price Prediction using Machine Learning
-
+# 🚗 Car Price Prediction using Machine Learning
 ## 📌 Project Overview
 
 This project focuses on building an end-to-end Machine Learning pipeline to predict car prices based on multiple numerical and categorical features. The goal of the project is not only to train a model, but also to understand data limitations, preprocessing challenges, model evaluation, and deployment.
